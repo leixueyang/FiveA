@@ -34,7 +34,7 @@ iOS 18.4 之后系统自己会显示 `5G-A`，这个插件就没必要装了。1
 
 ## 下载
 
-**deb**：[FiveA_1.0.0.deb](下载地址)
+**deb**：[FiveA_1.0.0.deb](https://github.com/leixueyang/FiveA/releases/latest)
 
 是 rootless 包，隐根环境要用 RootHide Patcher 转一次，步骤在下面。
 
