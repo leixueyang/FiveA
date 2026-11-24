@@ -1,0 +1,9 @@
+Package: com.fivea.glyph
+Name: FiveA
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 把状态栏的 5G+ 显示成 5Gᴀ，只在系统真实上报载波聚合时生效
+Maintainer: FiveA
+Author: FiveA
+Section: Tweaks
+Depends: mobilesubstrate
